@@ -1,6 +1,6 @@
 function showMessage() {
 
     document.getElementById("message").innerHTML =
-        "Welcome to my GitHub application!";
+        "Welcome to my GitHub applications!";
 
 }
